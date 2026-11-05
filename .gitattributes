@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+# Unity binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.dll binary
